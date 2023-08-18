@@ -120,10 +120,9 @@ The project is a basic web application built using Java and the Spring framework
 ```
 ## Author
 
-Saurav Kumar
+Mantu Kumar
 
-* twiter : [@saurav](https://twitter.com/Sauravjha24)
-* Github : [@sjha](https://github.com/sjha24)
+* Github : (https://github.com/sjha24](https://github.com/mantu1234567/InstagramBackendApp/edit/master/README.md))
 
 ## Contributing
 
@@ -137,5 +136,5 @@ Give a rating if this project help you
 
 ## License
 
-Copyright : 2023 [Saurav Kumar]()
+Copyright : 2023 [Mantu Kumar]()
 This project is [GeekSter](https://www.geekster.in/) license
